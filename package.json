@@ -1,0 +1,28 @@
+{
+  "name": "brunch-angularjs-seed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "brunch",
+    "es6",
+    "angularjs"
+  ],
+  "author": "H3t0r",
+  "license": "ISC",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.13",
+    "angular": "^1.6.8",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "auto-reload-brunch": "^2.7.1",
+    "babel-brunch": "^6.1.1",
+    "babel-preset-env": "^1.6.1",
+    "brunch": "^2.10.12",
+    "eslint": "^4.16.0",
+    "eslint-brunch": "^3.12.0",
+    "html-pages-brunch": "^2.6.0"
+  }
+}
